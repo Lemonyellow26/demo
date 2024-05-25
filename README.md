@@ -1,2 +1,2 @@
-# demo
-This is for testing purpose 
+# social-media-website
+A Responsive Social Media Website With Theme Customization Using HTML CSS &amp; JavaScript
